@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## npm i react-router-dom
+## npm i phosphor-react
+## npm i firebase
+## npm i bootstrap
+## npm i filter-data
+
 ## Available Scripts
 
 In the project directory, you can run:
